@@ -238,3 +238,6 @@ This repository serves as the official landing page for Rail Simulator. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Rail Simulator today!**
+
+---
+**Last updated:** 2026-09-11 05:35:23 UTC
