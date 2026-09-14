@@ -240,4 +240,4 @@ This repository serves as the official landing page for Rail Simulator. The soft
 **Get the most recent version of Rail Simulator today!**
 
 ---
-**Last updated:** 2026-09-14 17:34:29 UTC
+**Last updated:** 2026-09-14 21:23:40 UTC
